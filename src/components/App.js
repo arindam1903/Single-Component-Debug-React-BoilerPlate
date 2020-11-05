@@ -1,11 +1,2 @@
-import React, {Component, useState} from "react";
-import '../styles/App.css';
+<p>I am learning React. My life is getting better</p>
 
-const App = () => {
-  return (
-    <></>
-  )
-}
-
-
-export default App;
