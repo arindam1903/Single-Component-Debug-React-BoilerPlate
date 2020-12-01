@@ -1,2 +1,2 @@
-<p>Now I know how ReactDOM.render works</p>
+<p>Now I can render any React component on any DOM node I want using ReactDOM.render</p>
 
