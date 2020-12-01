@@ -1,2 +1,2 @@
-<p>I am learning React. My life is getting better</p>
+<p>Now I know how ReactDOM.render works</p>
 
